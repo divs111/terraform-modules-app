@@ -1,4 +1,4 @@
-Terraform AWS EC2 Infrastructure as Code (IaC) Module
+# Terraform AWS EC2 Custom Module
 
 A reusable Terraform module for provisioning EC2 instances across different environments (dev/stage/prod) with customizable configurations.
 
